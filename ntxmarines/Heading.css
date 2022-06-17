@@ -1,0 +1,146 @@
+@charset "utf-8";
+body h1 {
+	font-family: SansSerif, serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 33pt;
+}
+body h2 {
+	font-family: SansSerif, serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 25pt;
+}
+body h3 {
+	font-family: SansSerif, serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 15pt;
+}
+body p {
+	font-family: SansSerif, serif;
+	font-weight: normal;
+	font-size: large;
+	text-align: center;
+}
+footer {
+	font-family: SansSerif, serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+body form label {
+	font-size: 15pt;
+	font-weight: normal;
+}
+body form {
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	background-image: url(background.png);
+	border-style: double;
+	border-width: thick;
+}
+#Name {
+}
+
+nav ul li {
+	width: 20%;
+	font-size: 20pt;
+	float: left;
+}
+#Complete {
+	display: flex;
+	float: left;
+	padding-left: 1px;
+	padding-right: 0px;
+
+}
+#Complete #reset {
+	width: 100px;
+	height: 50px;
+	margin-left: 250px;
+}
+#Complete #submit {
+	width: 100px;
+	height: 50px;
+	margin-left: 200px;
+}
+
+
+
+#content #faqs {
+
+}
+
+#content #intro {
+
+}
+
+body nav ul {
+	list-style-type: none;
+	display: flex;
+}
+body {
+	padding-top: 25px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	background-image: url(ImgResponsive_Placeholder.png);
+
+}
+
+ul li a {
+	font-family: sans-serif, serif;
+}
+
+body div {
+	display: flex;
+}
+#Donate {
+	justify-content: flex-end;
+	padding-right: 50px;
+
+
+
+
+
+}
+#Donate #Map {
+	background-image: url(Flag&Emblem.PNG);
+	width: 75px;
+	height: 75px;
+	margin-left: 11px;
+}
+#Donate #Facebook {
+	background-image: url(Calendar%20of%20Events%20Image.PNG);
+	width: 75px;
+	height: 75px;
+	margin-left: 10px;
+}
+#Mixer {
+	justify-content: center;
+}
+#MCLBall  {
+	justify-content: center;
+
+}
+
+#Wrestling {
+	justify-content: center;
+}
+#content #faqs #Community {
+	justify-content: center;
+}
+#Applicationbutton  {
+	width: 150px;
+	height: 50px;
+	justify-content: center;
+}
+#Application {
+	justify-content: center;
+}
+#content #intro #Support {
+	justify-content: center;
+}
